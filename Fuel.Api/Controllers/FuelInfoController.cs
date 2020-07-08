@@ -19,7 +19,7 @@
         }
 
         // GET api/fuelinfo
-        [HttpGet, Route("")]
+        [HttpGet, Route(" ")]
         public IActionResult Get([FromQuery, ModelBinder(Name ="FromDate")] FuelInfoServiceRequest fuelInfoServiceRequest)
         {
             //if (driverId == null || fromDate == null || toDate == null)
