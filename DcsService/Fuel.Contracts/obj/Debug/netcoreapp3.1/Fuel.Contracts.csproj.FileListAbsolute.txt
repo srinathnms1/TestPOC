@@ -1,0 +1,8 @@
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\bin\Debug\netcoreapp3.1\Fuel.Contracts.deps.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\bin\Debug\netcoreapp3.1\Fuel.Contracts.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\bin\Debug\netcoreapp3.1\Fuel.Contracts.pdb
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\obj\Debug\netcoreapp3.1\Fuel.Contracts.csprojAssemblyReference.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\obj\Debug\netcoreapp3.1\Fuel.Contracts.AssemblyInfoInputs.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\obj\Debug\netcoreapp3.1\Fuel.Contracts.AssemblyInfo.cs
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\obj\Debug\netcoreapp3.1\Fuel.Contracts.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\Fuel.Contracts\obj\Debug\netcoreapp3.1\Fuel.Contracts.pdb

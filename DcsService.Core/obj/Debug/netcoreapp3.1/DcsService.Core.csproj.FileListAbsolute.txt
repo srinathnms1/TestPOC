@@ -1,0 +1,8 @@
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\bin\Debug\netcoreapp3.1\DcsService.Core.deps.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\bin\Debug\netcoreapp3.1\DcsService.Core.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\bin\Debug\netcoreapp3.1\DcsService.Core.pdb
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\obj\Debug\netcoreapp3.1\DcsService.Core.csprojAssemblyReference.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\obj\Debug\netcoreapp3.1\DcsService.Core.AssemblyInfoInputs.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\obj\Debug\netcoreapp3.1\DcsService.Core.AssemblyInfo.cs
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\obj\Debug\netcoreapp3.1\DcsService.Core.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService.Core\obj\Debug\netcoreapp3.1\DcsService.Core.pdb

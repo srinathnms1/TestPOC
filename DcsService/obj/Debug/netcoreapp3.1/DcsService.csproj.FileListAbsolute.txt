@@ -1,0 +1,17 @@
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\DcsService.exe
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\DcsService.deps.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\DcsService.runtimeconfig.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\DcsService.runtimeconfig.dev.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\DcsService.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\bin\Debug\netcoreapp3.1\DcsService.pdb
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\staticwebassets\DcsService.StaticWebAssets.Manifest.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\staticwebassets\DcsService.StaticWebAssets.xml
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\DcsService.MvcApplicationPartsAssemblyInfo.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\DcsService.AssemblyInfoInputs.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\DcsService.AssemblyInfo.cs
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\DcsService.RazorTargetAssemblyInfo.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\DcsService.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\DcsService\obj\Debug\netcoreapp3.1\DcsService.pdb

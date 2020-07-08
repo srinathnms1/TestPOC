@@ -1,0 +1,13 @@
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\bin\Release\netcoreapp3.1\Fuel.Domain.deps.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\bin\Release\netcoreapp3.1\Fuel.Domain.runtimeconfig.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\bin\Release\netcoreapp3.1\Fuel.Domain.runtimeconfig.dev.json
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\bin\Release\netcoreapp3.1\Fuel.Domain.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\bin\Release\netcoreapp3.1\Fuel.Domain.pdb
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\bin\Release\netcoreapp3.1\DcsService.Core.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\bin\Release\netcoreapp3.1\DcsService.Core.pdb
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\obj\Release\netcoreapp3.1\Fuel.Domain.csprojAssemblyReference.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\obj\Release\netcoreapp3.1\Fuel.Domain.AssemblyInfoInputs.cache
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\obj\Release\netcoreapp3.1\Fuel.Domain.AssemblyInfo.cs
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\obj\Release\netcoreapp3.1\Fuel.Domain.csproj.CopyComplete
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\obj\Release\netcoreapp3.1\Fuel.Domain.dll
+D:\Srinath\Git projects\Wabco\DOTNET CORE\dcs-poc-service\Fuel.Domain\obj\Release\netcoreapp3.1\Fuel.Domain.pdb
